@@ -1,5 +1,8 @@
 _repo: A-Practical-Manual-of-the-Collodion-Process-Giving-in-Detail-a-Method-For-Producing-Positive-__63517
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63517-h/images/epub_cover.jpg
 creator:
   author:
     agent_name: Humphrey, S. D. (Samuel Dwight)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '105'
     url: http://www.gutenberg.org/2009/agents/105
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63517#A-Practical-Manual-of-the-Collodion-Process-Giving-in-Detail-a-Method-For-Producing-Positive-_
 gutenberg_issued: '2020-10-21'
 gutenberg_type: Text
 identifiers:
